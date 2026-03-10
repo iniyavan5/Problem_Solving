@@ -25,8 +25,7 @@ public class Main
             }
             else
             {
-                left++;
-                target++;
+                target--;
             }
         }
         System.out.println(Arrays.toString(A));
